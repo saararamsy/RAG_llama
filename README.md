@@ -1,7 +1,7 @@
 # RAG_llma - Retrieval-Augmented Generation Application
 
 ## Overview
-**DocuRAG** is a **Retrieval-Augmented Generation (RAG)** application designed for **document-based query processing**. It supports **local deployment** and integrates with **PDFs** for contextual retrieval and AI-generated summarization.
+**RAG_llma** is a **Retrieval-Augmented Generation (RAG)** application designed for **document-based query processing**. It supports **local deployment** and integrates with **PDFs** for contextual retrieval and AI-generated summarization.
 
 The project focuses on building a system that retrieves relevant documents from a vector database and generates responses based on the content, allowing for efficient and contextually accurate document processing.
 
